@@ -1,0 +1,22 @@
+.navbar {
+  width: 100%;
+  min-height: 6vh;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #00b2c8;
+  transition: all .2s ease-in;
+}
+
+.navigation {
+  display: block;
+  padding-left: 37%;
+} 
+
+.navigation a {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  font: 20px
+}

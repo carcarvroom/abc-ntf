@@ -1,0 +1,21 @@
+.character-list, h2, p {
+  color: white;
+}
+
+.character-list h2 {
+  text-align: center;
+  padding-top: 20px
+}
+
+p {
+  text-align: center;
+  padding-bottom: 10px
+}
+
+span {
+  font-weight: bold;
+}
+
+.description div {
+  padding: 5px
+}

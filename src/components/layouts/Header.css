@@ -1,0 +1,7 @@
+.banner-image {
+  padding: 10%;
+  background-image: url("../../assets/rick-banner.png") !important;
+  background-color: #011f18;
+  background-repeat: no-repeat !important;
+  background-size: cover;
+}
