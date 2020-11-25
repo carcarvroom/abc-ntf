@@ -11,7 +11,7 @@ const Register = () => {
   const onSubmit = () => {
     setIsSuccessfulySubmitted(true)
     setName(getValues('name'))
-    alert(`${getValues('name')} has signed up! Welome to the Rick and Morty Fandom!`)
+    alert(`${getValues('name')} has signed up! Welcome to the Rick and Morty Fandom!`)
     localStorage.setItem('email', getValues('email'))
     window.location.reload(true)
   }
